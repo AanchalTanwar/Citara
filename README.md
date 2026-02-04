@@ -1,1 +1,35 @@
-# Citara
+# ⭐ Citara — Civic-Tech Platform for Urban Infrastructure Awareness 🗺️
+
+Citara is a modern, responsive civic-tech web platform focused on Delhi’s urban infrastructure and citizen engagement.  
+It empowers users to explore districts, monitor utilities, raise complaints, participate in community discussions, and stay informed about local civic updates — all in one place.
+
+Built using **HTML, CSS, and Vanilla JavaScript only** (no frameworks).
+
+---
+
+## 🌐 Project Overview
+
+Citara bridges the gap between citizens and urban infrastructure by providing:
+
+✅ Interactive Delhi Map (Google Maps Integrated)  
+✅ District-wise locality insights  
+✅ Utilities dashboard  
+✅ Community discussion board  
+✅ Complaint & grievance system  
+✅ Urban news & alerts  
+
+Designed for hackathons, smart city challenges, and civic innovation.
+
+---
+
+## 🚀 Features
+
+### 🗺 Interactive Map
+- Google Maps centered on Delhi
+- Clickable districts (demo interaction)
+- Smooth hover effects
+- Responsive layout
+
+---
+
+### 🏙 Dist
